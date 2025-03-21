@@ -12,7 +12,7 @@
    - дебит - 5.77;
    - кредит - 11.22
      
-   ![Консольное приложение](screenshots/console_app.png)
+   ![Консольное приложение](https://github.com/GeraTikk/Bank/blob/993d16bb67a273cfaf92eaaee171fcc46fbe09cb/Screenshot%202025-03-21%20091419.png)
 3. **Обозреватель тестов:**
    ![Обозреватель тестов](screenshots/test_explorer.png)
 
